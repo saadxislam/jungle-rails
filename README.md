@@ -1,6 +1,10 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Completed as a project during the Lighthouse Labs Web Development 12 week bootcamp. We were provided with a base of code and no prior exposure to Ruby/Rails and asked to fix bugs and add features to the app.
+
+Features added include user login/registration, admin category listings, admin category creation, admin dashboard, admin panel basic authentication, conditional sold out icons and consistent currency display. We also implemented unit and feature testing with a combination of Capybara, Poltergeist, RSpec, and Phantomjs.
+
+
 
 
 ## Setup

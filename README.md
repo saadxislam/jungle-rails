@@ -4,8 +4,10 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 Features added include user login/registration, admin category listings, admin category creation, admin dashboard, admin panel basic authentication, conditional sold out icons and consistent currency display. We also implemented unit and feature testing with a combination of Capybara, Poltergeist, RSpec, and Phantomjs.
 
-
-
+# Screenshots
+![cart](https://github.com/saadxislam/jungle-rails/blob/master/docs/cart_page.png)
+![home](https://github.com/saadxislam/jungle-rails/blob/master/docs/home_page.png)
+![thanks](https://github.com/saadxislam/jungle-rails/blob/master/docs/thanks_page.png)
 
 ## Setup
 
